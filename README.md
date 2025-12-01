@@ -27,10 +27,10 @@ El notebook genera:
 
 Este proyecto usa las siguientes librerías de Python:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 
 
