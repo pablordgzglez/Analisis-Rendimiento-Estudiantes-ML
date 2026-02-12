@@ -6,7 +6,7 @@ Este proyecto aplica técnicas de aprendizaje automático supervisado y no super
 
 Coloca todos los siguientes archivos en la misma carpeta:
 
-- **ProyectoFinal.ipynb**: notebook principal con todo el flujo del proyecto.
+- **proyecto_PabloRodriguez.ipynb**: notebook principal con todo el flujo del proyecto.
 - **rendimiento_estudiantes_train.csv**: conjunto de entrenamiento con la variable T3.
 - **rendimiento_estudiantes_test_vacio.csv**: conjunto de test sin T3.
 
